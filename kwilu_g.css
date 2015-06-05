@@ -1,0 +1,249 @@
+/*--- Avanquest WebEasy Document Style ---*/
+
+*                   { /* All Elements */
+	margin          : 0px;
+	padding         : 0px;
+	}
+a:link              { /* Document Style */
+	text-decoration :none;
+	}
+a:visited           { /* Document Style */
+	text-decoration :none;
+	}
+a:hover             { /* Document Style */
+	text-decoration :underline;
+	}
+a:active            { /* Active Links */
+	color           : #ff0000;
+	}
+ol,ul               { /* All Lists */
+	margin          : 1em;
+	padding-left    : 2em;
+	}
+p                   { /* All Paragraphs */
+	margin-bottom   : 1em;
+	}
+a.navigation:link   {
+	text-decoration :none;
+	}
+a.navigation:visited{
+	text-decoration :none;
+	}
+a.navigation:hover  {
+	text-decoration :underline;
+	}
+table.ct07          { /* Document Style */
+	background-color: #ffcc00;
+	text-align      : center;
+	border          :   0.75pt solid #ffffff;
+	width           :350px;
+	height          : 200px;
+	border-spacing  : 0px;
+	table-layout    : auto;
+	empty-cells     : show;
+	}
+table.ct07 caption  { /* Document Style */
+	color           : #000000;
+	font            : bold 10pt 'Comic Sans MS', cursive;
+	}
+table.ct07 td       { /* Document Style */
+	color           : #333333;
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : right;
+	border          :   0.75pt solid #ffffff;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+table.ct07 th       { /* Document Style */
+	background-color: #c0c0c0;
+	text-align      : left;
+	border          :   0.75pt solid black;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+table.ct07 .ch07 th { /* Document Style */
+	color           : #333333;
+	font            : bold 10pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	background-color: #ffcc00;
+	text-align      : center;
+	border          :   0.75pt solid #ffffff;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+.address,address    {
+	color           : #333333;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	padding         :   1.50pt;
+	}
+.citation,cite      {
+	font            : italic 10pt 'Arial', Helvetica, sans-serif;
+	}
+.code,code          {
+	font            : 10pt 'Courier New', monospace;
+	}
+.deco               {
+	color           : #ff8a00;
+	}
+.emphasis,em        {
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	}
+.footer             {
+	color           : #c3c3c3;
+	font            : bold 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	}
+.footer_box         {
+	background-color: #c0c0c0;
+	}
+.form_button        {
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	}
+.form_input         {
+	border          :   0.75pt solid black;
+	}
+.form_label         {
+	font            : 8pt 'Verdana', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	}
+.form_legend        {
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	text-align      : center;
+	}
+.form_set           {
+	border          :   0.75pt solid black;
+	}
+.header             {
+	font            : bold 20pt 'Arial', Helvetica, sans-serif;
+	}
+.header_box         {
+	color           : #66cc00;
+	background-color: #66cc00;
+	}
+.heading1,h1        {
+	font            : 22pt 'Arial', Helvetica, sans-serif;
+	}
+.heading2,h2        {
+	font            : 20pt 'Arial', Helvetica, sans-serif;
+	}
+.heading3,h3        {
+	font            : 18pt 'Arial', Helvetica, sans-serif;
+	}
+.heading4,h4        {
+	font            : 14pt 'Arial', Helvetica, sans-serif;
+	}
+.heading5,h5        {
+	color           : #ffffff;
+	font            : bold 12pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	padding         :   1.50pt;
+	}
+.heading6,h6        {
+	color           : #333333;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	padding         :   1.50pt;
+	}
+.info               {
+	color           : #333333;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.info_box           {
+	background-color: #c0c0c0;
+	}
+.info_tag           {
+	}
+.item               {
+	color           : #333333;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	}
+.item_box           {
+	color           : #ffffff;
+	background-color: #ffffff;
+	border          :   0.75pt solid #c0c0c0;
+	padding         :   1.50pt;
+	}
+.item_tag           {
+	color           : #ffffff;
+	font            : bold 12pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.logo               {
+	color           : #333333;
+	background-color: #333333;
+	}
+.logo_box           {
+	background-color: #c0c0c0;
+	}
+.logo_tag           {
+	}
+.navigation         {
+	color           : #333333;
+	font            : bold 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	text-align      : center;
+	padding         :   3.75pt;
+	}
+.navigation_box     {
+	color           : #ff8a00;
+	background-color: #ff8a00;
+	}
+.navigation_pin     {
+	color           : #ffffff;
+	font            : bold 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: #ffcc00;
+	text-align      : right;
+	padding         :   3.75pt;
+	}
+.navigation_tag     {
+	}
+.news               {
+	}
+.news_box           {
+	color           : #ffd633;
+	background-color: #ffd633;
+	}
+.news_tag           {
+	color           : #ffffff;
+	font            : bold 12pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	}
+.page               {
+	color           : #ffffff;
+	background-color: #ffffff;
+	}
+.page_box           {
+	color           : #ffffff;
+	background-color: #ffffff;
+	}
+.page_tag           {
+	color           : #333333;
+	font            : bold 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	}
+.panel              {
+	color           : #ffffff;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	text-align      : left;
+	}
+.panel_box          {
+	color           : #33a2cb;
+	background-color: #33a2cb;
+	}
+.photo              {
+	background-color: #c0c0c0;
+	}
+.photo_box          {
+	color           : #ffffff;
+	background-color: #ffffff;
+	}
+.photo_tag          {
+	}
+.small,small        {
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	}
+
+
+/*--- EndOfFile ---*/

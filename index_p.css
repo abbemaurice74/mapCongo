@@ -1,0 +1,234 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	border          :   0.00pt none #f0f0f0;
+	}
+.cc02               { /* Common */
+	font            : bold 8pt 'Vietnamese font';
+	color           : #000000;
+	}
+span#e24            { /* images/kwilu001011.jpg */
+	background      : transparent url(images/kwilu001011.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  79.50pt;
+	top             : 572.25pt;
+	width           : 586.50pt;
+	height          : 148.50pt;
+	}
+span#e23            { /* images/kwilu001010.jpg */
+	background      : transparent url(images/kwilu001010.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  79.50pt;
+	top             :   6.75pt;
+	width           : 586.50pt;
+	height          : 630.00pt;
+	}
+div#e22             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  87.75pt;
+	top             :  15.00pt;
+	width           : 570.00pt;
+	height          : 698.25pt;
+	}
+div#e21             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  95.25pt;
+	top             : 135.00pt;
+	width           : 555.00pt;
+	height          :  22.50pt;
+	}
+div#e20             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  95.25pt;
+	top             : 286.50pt;
+	width           : 555.00pt;
+	height          :  22.50pt;
+	}
+img#e19             { /* images/kwilu001009.jpg */
+	background-color: #808080;
+	position        : absolute;
+	left            :  94.50pt;
+	top             : 140.25pt;
+	width           : 556.50pt;
+	height          : 162.75pt;
+	}
+div#e18             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  95.25pt;
+	top             : 314.25pt;
+	width           : 183.00pt;
+	height          : 135.00pt;
+	}
+div#e17             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  95.25pt;
+	top             : 454.50pt;
+	width           : 183.00pt;
+	height          : 135.00pt;
+	}
+div#e16             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            :  94.50pt;
+	top             : 594.00pt;
+	width           : 180.00pt;
+	height          : 109.50pt;
+	}
+div#e15             {
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 283.50pt;
+	top             : 594.75pt;
+	width           : 366.75pt;
+	height          : 112.50pt;
+	}
+h5#e14              { /* ACTIVITES PRINCIPALES */
+	text-align      : center;
+	padding-top     :   3.00pt;
+	position        : absolute;
+	left            : 103.50pt;
+	top             : 316.50pt;
+	width           : 154.50pt;
+	height          :  14.25pt;
+	}
+h5#e13              { /* MAISONS ET CHAINES DE CO... */
+	font            : bold 8pt 'Vietnamese font';
+	color           : #000000;
+	text-align      : center;
+	padding-top     :   3.75pt;
+	position        : absolute;
+	left            : 103.50pt;
+	top             : 456.75pt;
+	width           : 154.50pt;
+	height          :  33.00pt;
+	}
+img#e12             { /* images/kwilu001008.jpg */
+	background-color: #808080;
+	position        : absolute;
+	left            : 100.50pt;
+	top             : 503.25pt;
+	width           :  51.75pt;
+	height          :  46.50pt;
+	}
+img#e11             { /* images/kwilu001007.jpg */
+	background-color: #808080;
+	position        : absolute;
+	left            : 155.25pt;
+	top             : 504.75pt;
+	width           :  55.50pt;
+	height          :  45.00pt;
+	}
+img#e10             { /* images/kwilu001006.jpg */
+	background-color: #808080;
+	position        : absolute;
+	left            : 215.25pt;
+	top             : 505.50pt;
+	width           :  60.75pt;
+	height          :  43.50pt;
+	}
+h4#e9               { /* Bienvenue dans la nouvel... */
+	font            : bold 12pt 'Vietnamese font';
+	color           : #800000;
+	text-align      : center;
+	padding-top     :   7.50pt;
+	position        : absolute;
+	left            : 257.25pt;
+	top             : 311.25pt;
+	width           : 422.25pt;
+	height          :  51.75pt;
+	}
+div#e8              { /* &nbsp;&nbsp;&nbsp;&nbsp;... */
+	font            : italic 14pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : left;
+	position        : absolute;
+	left            : 291.75pt;
+	top             : 363.75pt;
+	width           : 360.00pt;
+	height          : 200.25pt;
+	}
+h6#e7               { /* Copyright (C) 2015 */
+	text-align      : center;
+	position        : absolute;
+	left            :  95.25pt;
+	top             : 724.50pt;
+	width           : 453.00pt;
+	height          :  12.00pt;
+	}
+span#e6             { /* images/kwilu001005.gif */
+	background      : transparent url(images/kwilu001005.gif) no-repeat top left;
+	position        : absolute;
+	left            : 288.00pt;
+	top             : 597.00pt;
+	width           : 164.25pt;
+	height          : 107.25pt;
+	}
+span#e5             { /* images/kwilu001004.jpg */
+	background      : transparent url(images/kwilu001004.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  99.00pt;
+	top             : 337.50pt;
+	width           : 174.75pt;
+	height          : 108.75pt;
+	}
+span#e4             { /* images/kwilu001003.jpg */
+	background      : transparent url(images/kwilu001003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  95.25pt;
+	top             : 622.50pt;
+	width           : 180.75pt;
+	height          :  88.50pt;
+	}
+span#e3             { /* images/kwilu001002.jpg */
+	background      : transparent url(images/kwilu001002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  95.25pt;
+	top             :  20.25pt;
+	width           : 555.75pt;
+	height          : 110.25pt;
+	}
+div#e2              { /* voir la carte */
+	position        : absolute;
+	left            : 132.75pt;
+	top             : 598.50pt;
+	width           :  92.25pt;
+	height          :  18.00pt;
+	}
+span#e1             { /* images/kwilu001001.jpg */
+	background      : transparent url(images/kwilu001001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 459.75pt;
+	top             : 597.75pt;
+	width           : 185.25pt;
+	height          : 107.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 750.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
